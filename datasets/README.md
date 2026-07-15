@@ -1,10 +1,14 @@
-# Dataset Samples
+# Datasets
 
-This folder contains sample extracts from the Olist Brazilian E‑commerce dataset.
+This folder contains sample datasets used throughout this repository for learning, practice, and portfolio projects.
 
-Only small samples (100–500 rows) are included to keep the repository lightweight and compliant with Kaggle’s license.
+## Olist Brazilian E-commerce Dataset
 
-Full dataset available at:
+Sample extracts from the Olist Brazilian E-commerce dataset are included.
+
+Only small samples (100–500 rows) are provided to keep the repository lightweight and to respect the dataset's licensing terms.
+
+**Source:**
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 These samples are used for:
@@ -13,3 +17,10 @@ These samples are used for:
 - Query development
 - Portfolio demonstrations
 
+## Course Datasets
+
+Some exercises in this repository are completed using datasets provided as part of online courses, such as the Google Data Analytics Professional Certificate on Coursera.
+
+Those datasets are **not included** in this repository because they may be subject to copyright or licensing restrictions.
+
+If you are enrolled in the course, please obtain the datasets directly from the official course resources.
